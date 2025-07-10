@@ -1,2 +1,2 @@
 flask
-hades-hd
+git+https://github.com/vanessabrooks/hades-hd.git
